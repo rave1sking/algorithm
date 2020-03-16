@@ -1,7 +1,5 @@
-#include<stdio.h>
-#include<Windows.h>
 #include<iostream>
-
+#include<stdlib.h>
 using namespace std;
 
 void Perm(int* array, int size, int N) 
@@ -24,7 +22,7 @@ void Perm(int* array, int size, int N)
 
 int main(){
     int arr[5]={1,2,3,4,5};
-    Perm(arr,5,3);
+    Perm(arr,5,0);
     system("pause");
     return 0;
 }
