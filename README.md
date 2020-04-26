@@ -3,4 +3,6 @@
 ### recursive
 1、perm
 ### sort 
-1、mergefor
+1，合并
+### greedy
+1，区间覆盖问题
